@@ -102,3 +102,7 @@ You can find him on:
 * [Udemy](https://www.udemy.com/user/toshendrasharma2/)
 * [Podacasts](http://www.buzzsprout.com/134645)
 
+
+License
+-------------
+[GPL v3](https://www.gnu.org/licenses/gpl-3.0.txt)
