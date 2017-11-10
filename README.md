@@ -83,8 +83,9 @@ Be sure you're connected to an ethereum client before running these commands. If
 
 ## Authors
 
-[**Toshendra Sharma**](https://www.udemy.com/user/toshendrasharma2/)  - Founder & CEO @ Blockchain Council & Toshblocks.
-Toshendra Sharma is the founder & CEO of RecordsKeeper, a Blockchain-based record keeping solution for businesses & also the founder of Toshblocks, A Blockchain Consulting, Development & Training Company.
+[**Toshendra Sharma**](https://www.udemy.com/user/toshendrasharma2/)
+
+Toshendra Sharma is the founder & CEO of RecordsKeeper, a Blockchain-based record keeping solution for businesses & also the founder of Toshblocks, A Blockchain Consulting, Development & Training Company. Toshendra also founded [Blockchain Council](https://www.blockchain-council.org) to bring elite Blockchain experts together on a single platform.
 
 Earlier, he founded Appvigil (Wegilant) in Nov 2011 while pursuing my Masters in Application Security from IIT Bombay, India. Appvigil is the Mobile App Vulnerability Scanner on Cloud. He was heading the team as CEO. The company has won many awards & accolades under his leadership.
 
