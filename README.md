@@ -60,7 +60,7 @@ Test: Run npm -v. To check the version the of installed npm.
 
 * Clone the repository on your local machine.
 ```
-$ git clone https://github.com/blockchain-council/coin-development.git
+$ git clone https://github.com/blockchain-council/build-decentralized-democracy-dao-in-ethereum-solidity.git
 ```
 * "cd" into the cloned repository from command line.
 ```
