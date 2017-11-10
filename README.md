@@ -1,5 +1,6 @@
 # DAO- course resouces
 
+This code base is a part of e-learning course [How to Build Decentralized Auto Democracy DAO in Blockchain](https://www.toshacademy.com/courses/how-to-build-decentralized-auto-democracy-dao-in-blockchain) hosted at [Tosh Academy] (https://www.toshacademy.com/collections/blockchain?utm_source=github&utm_medium=dao-repo). 
 
 Learn how to build DAO using smart contracts.
 
