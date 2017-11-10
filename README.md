@@ -1,6 +1,6 @@
 # DAO- course resouces
 
-This code base is a part of e-learning course [How to Build Decentralized Auto Democracy DAO in Blockchain](https://www.toshacademy.com/courses/how-to-build-decentralized-auto-democracy-dao-in-blockchain) hosted at [Tosh Academy] (https://www.toshacademy.com/collections/blockchain?utm_source=github&utm_medium=dao-repo). 
+This code base is a part of e-learning course [How to Build Decentralized Auto Democracy DAO in Blockchain](https://www.toshacademy.com/courses/how-to-build-decentralized-auto-democracy-dao-in-blockchain?utm_source=github&utm_medium=dao-repo) hosted at [Tosh Academy](https://www.toshacademy.com/collections/blockchain?utm_source=github&utm_medium=dao-repo). 
 
 Learn how to build DAO using smart contracts.
 
@@ -83,4 +83,21 @@ Be sure you're connected to an ethereum client before running these commands. If
 
 ## Authors
 
-* [**Toshendra Sharma**](https://www.udemy.com/user/toshendrasharma2/)  - Founder & CEO @ RecordsKeeper, Toshacademy, Toshblocks
+[**Toshendra Sharma**](https://www.udemy.com/user/toshendrasharma2/)  - Founder & CEO @ Blockchain Council & Toshblocks.
+Toshendra Sharma is the founder & CEO of RecordsKeeper, a Blockchain-based record keeping solution for businesses & also the founder of Toshblocks, A Blockchain Consulting, Development & Training Company.
+
+Earlier, he founded Appvigil (Wegilant) in Nov 2011 while pursuing my Masters in Application Security from IIT Bombay, India. Appvigil is the Mobile App Vulnerability Scanner on Cloud. He was heading the team as CEO. The company has won many awards & accolades under his leadership.
+
+Toshendra has worked on many Ethereum based projects for many companies & individuals for their coins & Initial Coin Offering (ICO).
+
+He is a well-known instructor & speaker in Blockchain space and taught more than 12,000 students worldwide spread in 148+ countries. He is also the part of Forbes India 30Under30 List of 2016 in Technology space.
+
+You can find him on: 
+* [Facebook](https://www.facebook.com/toshendra11)
+* [LinkedIn](https://linkedin.com/in/toshendra)
+* [Twitter](https://www.twitter.com/toshendrasharma)
+* [Tosh Academy](https://www.toshacademy.com)
+* [Toshblocks](https://www.toshblocks.com/)
+* [Udemy](https://www.udemy.com/user/toshendrasharma2/)
+* [Podacasts](http://www.buzzsprout.com/134645)
+
