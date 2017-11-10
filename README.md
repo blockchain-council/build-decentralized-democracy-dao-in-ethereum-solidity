@@ -64,7 +64,7 @@ $ git clone https://github.com/blockchain-council/build-decentralized-democracy-
 ```
 * "cd" into the cloned repository from command line.
 ```
-$ cd clone-development
+$ cd build-decentralized-democracy-dao-in-ethereum-solidity
 ```
 * Then run the below command which lets the dependencies from package.json gets installed locally for this particular project. The major requirements are truffle, testrpc, babel-register and babel-polyfill.
 ```
